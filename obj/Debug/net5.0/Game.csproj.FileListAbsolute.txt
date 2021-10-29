@@ -1,0 +1,16 @@
+C:\Users\asema\Desktop\Coding practices\CS Game\Game\bin\Debug\net5.0\Game.exe
+C:\Users\asema\Desktop\Coding practices\CS Game\Game\bin\Debug\net5.0\Game.deps.json
+C:\Users\asema\Desktop\Coding practices\CS Game\Game\bin\Debug\net5.0\Game.runtimeconfig.json
+C:\Users\asema\Desktop\Coding practices\CS Game\Game\bin\Debug\net5.0\Game.runtimeconfig.dev.json
+C:\Users\asema\Desktop\Coding practices\CS Game\Game\bin\Debug\net5.0\Game.dll
+C:\Users\asema\Desktop\Coding practices\CS Game\Game\bin\Debug\net5.0\ref\Game.dll
+C:\Users\asema\Desktop\Coding practices\CS Game\Game\bin\Debug\net5.0\Game.pdb
+C:\Users\asema\Desktop\Coding practices\CS Game\Game\obj\Debug\net5.0\Game.csproj.AssemblyReference.cache
+C:\Users\asema\Desktop\Coding practices\CS Game\Game\obj\Debug\net5.0\Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asema\Desktop\Coding practices\CS Game\Game\obj\Debug\net5.0\Game.AssemblyInfoInputs.cache
+C:\Users\asema\Desktop\Coding practices\CS Game\Game\obj\Debug\net5.0\Game.AssemblyInfo.cs
+C:\Users\asema\Desktop\Coding practices\CS Game\Game\obj\Debug\net5.0\Game.csproj.CoreCompileInputs.cache
+C:\Users\asema\Desktop\Coding practices\CS Game\Game\obj\Debug\net5.0\Game.dll
+C:\Users\asema\Desktop\Coding practices\CS Game\Game\obj\Debug\net5.0\ref\Game.dll
+C:\Users\asema\Desktop\Coding practices\CS Game\Game\obj\Debug\net5.0\Game.pdb
+C:\Users\asema\Desktop\Coding practices\CS Game\Game\obj\Debug\net5.0\Game.genruntimeconfig.cache
